@@ -1,11 +1,11 @@
-"dependencies": {
+",
+  "multer": "...",dependencies": {
   "@prisma/client": "^5.0.0",
   "bcryptjs": "...",
   "cors": "^2.8.5",
   "dotenv": "^16.0.3",
   "express": "^4.18.2",
-  "jsonwebtoken": "...",
-  "multer": "...",
+  "jsonwebtoken": "..."
   "uuid": "..."
 },
 "devDependencies": {
